@@ -14,6 +14,7 @@ window.addEventListener('scroll',()=>{
     gateRight.style.left = value * -0.5 +'px';
 });
 
+//For contact us page
 function handleSubmit(){
     window.alert("Your feedback has been submitted successfully!!")
 }
