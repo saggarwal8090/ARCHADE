@@ -17,5 +17,6 @@ window.addEventListener('scroll',()=>{
 //For contact us page
 function handleSubmit(){
     window.alert("Your feedback has been submitted successfully!!")
+    window.alert("This Game was made by Shivam Aggarwal from GEU!!")
 }
 
